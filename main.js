@@ -53,7 +53,7 @@ function errorZip(zip) {
     }
 }
 
-
+//async await
 function getWeatherMethod() {
     setWeather();
     onStateChange();
